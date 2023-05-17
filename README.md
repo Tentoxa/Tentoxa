@@ -7,7 +7,7 @@ public class Profile extends GithubProfile {
     private boolean shouldFollow;
     private boolean shouldCheckRepositories;
 
-    @Profile
+    @Override
     public void onLoad(){
         this.shouldFollow = true;
         this.shouldCheckRepositories = true;
