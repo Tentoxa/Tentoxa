@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tentoxa</h1>
-<h3 align="center">A mostly backend developer out of Germany</h3>
+<h3 align="center">An entry-level developer out of Germany</h3>
 
 ```java
 public class Profile extends GithubProfile {
