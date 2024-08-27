@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tentoxa</h1>
-<h3 align="center">An entry-level developer out of Germany</h3>
+# <div align="center">Hi there, I'm Tentoxa! 👋</div>
 
 ```java
 public class Profile extends GithubProfile {
@@ -14,9 +13,16 @@ public class Profile extends GithubProfile {
         if(this.shouldFollow && this.shouldCheckRepositories){
             System.out.println("You are epic, thank you <3");
         }else{
-            System.out.println("Thats ok! Enjoy your stay <3");
+            System.out.println("Thats ok! Enjoy your stay!");
         }
     }
 
 }
 ```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tentoxa&show_icons=true&theme=radical" alt="Tentoxa's GitHub Stats" />
+</div>
+
